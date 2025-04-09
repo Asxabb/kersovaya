@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suu-app/static/css/main.41f1e1bc.css",
+    "main.js": "/suu-app/static/js/main.b384c8d4.js",
+    "static/js/453.c62b35ac.chunk.js": "/suu-app/static/js/453.c62b35ac.chunk.js",
+    "index.html": "/suu-app/index.html",
+    "main.41f1e1bc.css.map": "/suu-app/static/css/main.41f1e1bc.css.map",
+    "main.b384c8d4.js.map": "/suu-app/static/js/main.b384c8d4.js.map",
+    "453.c62b35ac.chunk.js.map": "/suu-app/static/js/453.c62b35ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41f1e1bc.css",
+    "static/js/main.b384c8d4.js"
+  ]
+}
